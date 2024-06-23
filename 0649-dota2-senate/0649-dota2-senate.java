@@ -34,17 +34,7 @@ class Solution {
                     }
                     q.remove(val);
                  }
-                 if(q.contains('D')){
-                    if(q.contains('R')){
-                        continue;
-                    }
-                    else{
-                        return "Dire";
-                    }
-                 }
-                 else{
-                    return "Radiant";
-                 }
+                 
             }
             else if(curr!=q.get(0)){
                 q.add(curr);
