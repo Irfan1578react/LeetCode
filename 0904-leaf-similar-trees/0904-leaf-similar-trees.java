@@ -33,14 +33,14 @@ class Solution {
        
         else if(root1.left==null && root1.right==null){
             arr.add(root1.val);
-            
+            return;
         }
 
         
         
             helper(root1.left,arr);
             helper(root1.right,arr);
-            return;
+            
         
     
     }
