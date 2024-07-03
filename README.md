@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/Irfan1578react/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Irfan1578react/LeetCode/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
