@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Irfan1578react/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Irfan1578react/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Irfan1578react/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
