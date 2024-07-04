@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Irfan1578react/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Irfan1578react/LeetCode/tree/master/0657-robot-return-to-origin) |
+## Math
+|  |
+| ------- |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
