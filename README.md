@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/Irfan1578react/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
