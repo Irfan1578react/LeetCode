@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/Irfan1578react/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/Irfan1578react/LeetCode/tree/master/1179-game-play-analysis-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
