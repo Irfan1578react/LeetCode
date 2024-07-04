@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Irfan1578react/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Irfan1578react/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Irfan1578react/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Irfan1578react/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Sorting
+|  |
+| ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Irfan1578react/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
