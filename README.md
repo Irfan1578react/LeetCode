@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Irfan1578react/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Irfan1578react/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Irfan1578react/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Irfan1578react/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Irfan1578react/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Irfan1578react/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Irfan1578react/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -119,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Hash Table
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Irfan1578react/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
