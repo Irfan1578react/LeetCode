@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Irfan1578react/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Irfan1578react/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Irfan1578react/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Irfan1578react/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Irfan1578react/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
