@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Irfan1578react/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Irfan1578react/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Irfan1578react/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## String
 |  |
 | ------- |
