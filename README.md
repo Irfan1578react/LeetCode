@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Irfan1578react/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/Irfan1578react/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Irfan1578react/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Simulation
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Irfan1578react/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
