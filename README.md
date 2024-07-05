@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/Irfan1578react/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1734-bank-account-summary-ii](https://github.com/Irfan1578react/LeetCode/tree/master/1734-bank-account-summary-ii) |
 ## Two Pointers
 |  |
 | ------- |
