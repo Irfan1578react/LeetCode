@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Irfan1578react/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Irfan1578react/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Irfan1578react/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Irfan1578react/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Irfan1578react/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## String
 |  |
