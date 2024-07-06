@@ -23,9 +23,7 @@ class Solution {
                 three++;
             }
         }
-        for(int i=0;i<nums.length;i++){
-            System.out.println(nums[i]);
-        }
+        
         for(int i=0;i<nums.length;i++){
             if(nums[i]==1){
                 continue;
