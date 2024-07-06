@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Irfan1578react/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Irfan1578react/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Irfan1578react/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Irfan1578react/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Irfan1578react/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Irfan1578react/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Irfan1578react/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/Irfan1578react/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Irfan1578react/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Irfan1578react/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Irfan1578react/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Geometry
 |  |
 | ------- |
