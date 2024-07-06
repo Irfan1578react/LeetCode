@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Irfan1578react/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Irfan1578react/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0777-toeplitz-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/Irfan1578react/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Irfan1578react/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Irfan1578react/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
+| [0777-toeplitz-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## String
