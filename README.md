@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Irfan1578react/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Irfan1578react/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Irfan1578react/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/Irfan1578react/LeetCode/tree/master/0461-hamming-distance) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Irfan1578react/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Irfan1578react/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Database
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Irfan1578react/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Irfan1578react/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Irfan1578react/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
 |  |
 | ------- |
@@ -173,4 +176,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Irfan1578react/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Irfan1578react/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Irfan1578react/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
