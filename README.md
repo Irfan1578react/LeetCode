@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Irfan1578react/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1642-water-bottles](https://github.com/Irfan1578react/LeetCode/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Irfan1578react/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Irfan1578react/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Irfan1578react/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1642-water-bottles](https://github.com/Irfan1578react/LeetCode/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Irfan1578react/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Irfan1578react/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Irfan1578react/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
