@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Irfan1578react/LeetCode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Irfan1578react/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Irfan1578react/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Irfan1578react/LeetCode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Irfan1578react/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Irfan1578react/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Irfan1578react/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Irfan1578react/LeetCode/tree/master/0048-rotate-image) |
 | [0728-self-dividing-numbers](https://github.com/Irfan1578react/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Irfan1578react/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1642-water-bottles](https://github.com/Irfan1578react/LeetCode/tree/master/1642-water-bottles) |
