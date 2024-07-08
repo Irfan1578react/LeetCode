@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Irfan1578react/LeetCode/tree/master/0290-word-pattern) |
 | [0434-number-of-segments-in-a-string](https://github.com/Irfan1578react/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Irfan1578react/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Irfan1578react/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Irfan1578react/LeetCode/tree/master/0290-word-pattern) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Irfan1578react/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Irfan1578react/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Irfan1578react/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
