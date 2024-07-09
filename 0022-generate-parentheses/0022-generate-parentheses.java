@@ -11,7 +11,7 @@ class Solution {
         if(o>0 ){
             helper(res,ans+"(",o-1,c);
         }
-        if(o!=c && c>o){
+        if( c>o){
             helper(res,ans+")",o,c-1);
         }
     }
